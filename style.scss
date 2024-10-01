@@ -6,3 +6,35 @@ body{
 p{
     color: white;
 }
+
+.contact-form {
+    background: #ffffff;
+    margin-top: 50px;
+    padding: 32px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.contact-form h2 {
+    text-align: center;
+    margin-bottom: 24px;
+    color: #333;
+}
+.form-group label {
+    color: #fafafa; 
+    font-weight: bold;
+}
+.form-control {
+    border-radius: 4px;
+}
+.btn-custom {
+    width: 100%;
+    padding: 12px;
+    background-color: #090979;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+}
+.btn-custom:hover {
+    background-color: #2d2d8d;
+}
