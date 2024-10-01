@@ -23,5 +23,6 @@ O Melodia é um app feito para quem ama música e está sempre em busca de novas
     Integrantes:
 </h1>
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/161898042?v=4" width=115><br><sub>Eduardo Tomazela</sub>](https://github.com/du-ntomazela) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/101646035?v=4" width=115><br><sub>Léo Massago</sub>](https://github.com/LeoMasago) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/162758896?v=4" width=115><br><sub>Luiz Henrique</sub>](https://github.com/LhenriqueTech) | [<img loading="lazy" src="https://github.com/LeoMasago/Cp5Front/edit/main/readme.md" width=115><br><sub>Alexandre Assis</sub>](https://github.com/ale-assis) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/161898042?v=4" width=115><br><sub>Eduardo Tomazela</sub>](https://github.com/du-ntomazela) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/101646035?v=4" width=115><br><sub>Léo Massago</sub>](https://github.com/LeoMasago) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/162758896?v=4" width=115><br><sub>Luiz Henrique</sub>](https://github.com/LhenriqueTech) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/121182276?v=4" width=115><br><sub>Alexandre Assis</sub>](https://github.com/ale-assis) |
+
 | :---: | :---: | :---: | :---: | 
