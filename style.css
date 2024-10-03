@@ -44,38 +44,3 @@ p {
 .btn-custom:hover {
   background-color: #2d2d8d;
 }
-
-.section-title {
-  color: #ffffff !important;
-}
-
-.benefit h4 {
-  color: #ffffff;
-}
-.benefit i {
-  color: #b127ec;
-  transition: color 0.3s;
-}
-.benefit i:hover {
-  color: #6e51ff;
-}
-
-.navbar {
-  background: linear-gradient(#540979, #07074e, #000000);
-}
-
-.navbar .navbar-brand,
-.navbar .nav-link {
-  color: #ffffff;
-}
-
-.navbar .nav-link:hover {
-  color: #d000ff;
-}
-
-#apresentacao {
-  align-items: center;
-  display: flex;
-}
-
-/*# sourceMappingURL=style.css.map */
