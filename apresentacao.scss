@@ -1,0 +1,49 @@
+body {
+    background: linear-gradient(#090979, #07074e, #000000);
+  }
+
+  .apresentacao {
+    padding: 80px 0;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #540979, #07074e, #000000);
+    color: #fff;
+  }
+  .benefit-icon {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    color: #b127ec;
+    &:hover {
+        color: #6e51ff;
+      }
+    
+  }
+  .benefit-title {
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+  .benefit-description {
+    font-weight: 300;
+  }
+  .benefit-card {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    padding: 2rem;
+    transition: transform 0.3s ease;
+  }
+  .benefit-card:hover {
+    transform: translateY(-10px);
+  }
+  
+  .navbar {
+    background: linear-gradient(#540979, #07074e, #000000);
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .navbar .navbar-brand,
+  .navbar .nav-link {
+    color: #ffffff;
+  }
+  
+  .navbar .nav-link:hover {
+    color: #d000ff;
+  }
