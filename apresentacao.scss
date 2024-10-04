@@ -1,6 +1,6 @@
-body {
-    background: linear-gradient(#090979, #07074e, #000000);
-  }
+  $btnOuvir:#320361 ;
+  $btnEnviar:#020c47;
+  $color:#09002c;
 
   .apresentacao {
     padding: 80px 0;
@@ -35,7 +35,7 @@ body {
   }
   
   .navbar {
-    background: linear-gradient(#540979, #07074e, #000000);
+    background-color: #540979;
     font-family: 'Poppins', sans-serif;
   }
   
@@ -46,4 +46,29 @@ body {
   
   .navbar .nav-link:hover {
     color: #d000ff;
+  }
+  .card-comentarios{
+    background-color: #270145;
+    border-radius: 10px;
+    width: 70%;
+    margin-top: 40px;
+  }
+  .card-comentarios:hover{
+    background-color:#{$color} ;
+    transition: 1s;
+  }
+  .imagem{
+    margin-top: 20px ;
+    width: 60px;
+  }
+  .btnEnviar:hover{
+    transition: 1s;
+    background-color:#{$btnEnviar} ;
+  }
+  .btnOuvir{
+    background-color:#{$btnOuvir} ;
+    color: white;
+  }
+  .btnOuvir:hover{
+    background-color: rgb(35, 1, 56);
   }
